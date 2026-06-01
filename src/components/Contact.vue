@@ -72,7 +72,7 @@
 
 	/*reCAPTCHA Integration*/
 
-    const SITE_KEY = '6LeuDAgtAAAAANEda-AV8PBNJRkxDKEl9ZMnechK';  // Replace with your site key
+    const SITE_KEY = '6LeOEAgtAAAAAKmoD7HMvx0i0QYsBusw3LU-v4cU';  // Replace with your site key
     // The location where the reCAPTCHA checkbox will appear
     const recaptchaContainer = ref(null);
     // The ID of the reCAPTCHA widget after it is created
